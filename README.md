@@ -8,6 +8,12 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 |---|---|---|---|
 | Apr 26, 2020 | what_is_blockchain_transaction | TBA | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/what_is_blockchain_transaction.pdf) |
 
+# Question
+
+[Click here](https://github.com/lukepark327/lukepark-tube/issues) to visit issue tab.
+
+Please feel free to ask me if you have any questions.
+
 # Contact
 
 :email: lukepark327@gmail.com
