@@ -18,7 +18,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Apr 26, 2020 | What is Blockchain: Transaction | [Link](https://youtu.be/oN3uQi7sd_E) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/what_is_blockchain_transaction.pdf) | Blockchain |
 | May 03, 2020 | AMD Ryzen 3400G PC and Maplestory | [Link](https://youtu.be/rsNfZtAIToY) | - | - |
 | May 09, 2020 | [Live] What is Blockchain: Block and Chain | [1](https://youtu.be/qJZHPnCUbbQ) / [2](https://youtu.be/USGZ8etoOHg) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/what_is_blockchain_block_and_chain.pdf) | Blockchain | 
-| May 11, 2020 | [Live] GAN: Like I'm Five | - / - | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/NN_and_tensor_basic.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/GAN_basic_DCGAN.pdf) | AI |
+| May 11, 2020 | [Live] GAN: Like I'm Five | [Link](https://youtu.be/Cck0kj-XITI) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/NN_and_tensor_basic.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/GAN_basic_DCGAN.pdf) | AI |
 | May 16, 2020 | [Live] Blockchain Nodes and Assumptions | - / - | - | Blockchain |
 | May 17, 2020 | Forest of Endurance, Gomoku, and Coffee | - / - | - | - |
 | May 18, 2020 | [Live] CGAN, WGAN, and CycleGAN | - / - | - | AI |
