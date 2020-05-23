@@ -22,6 +22,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 16, 2020 | [Live] Blockchain Nodes and Assumptions | [Link](https://youtu.be/5DUqF8KXy_k) / [Full](https://youtu.be/xtUvzdPKCtw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/nodes_and_assumptions.pdf) | Blockchain |
 | May 17, 2020 | Forest of Endurance, Gomoku, and Coffee | [Link](https://youtu.be/sVaY9c2msoE) | - | Vlog |
 | May 18, 2020 | [Live] Improved GAN: CGAN and WGAN | - / [Full](https://youtu.be/wxdVfZ1Q-Ic) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CGAN_and_WGAN.pdf) | AI |
+| May 23, 2020 | [Live] Overview of Blockchain Scalability | - / - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/blockchain_scalability.pdf) | Blockchain |
 
 # Useful External Links
 
