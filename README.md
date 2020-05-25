@@ -23,6 +23,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 17, 2020 | Forest of Endurance, Gomoku, and Coffee | [Link](https://youtu.be/sVaY9c2msoE) | - | Vlog |
 | May 18, 2020 | [Live] Improved GAN: CGAN and WGAN | [Link](https://youtu.be/yK7R8wbwQXI) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CGAN_and_WGAN.pdf) | AI |
 | May 23, 2020 | [Live] Overview of Blockchain Scalability | - / [Full](https://youtu.be/xtUvzdPKCtw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/blockchain_scalability.pdf) | Blockchain |
+| May 25, 2020 | [Live] Visualizing Loss Function | - / [Full](https://youtu.be/FlTHals6rPM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/visualizing_loss_function.pdf) | Blockchain |
 
 # Useful External Links
 
