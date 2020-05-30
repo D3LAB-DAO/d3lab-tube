@@ -24,6 +24,8 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 18, 2020 | [Live] Improved GAN: CGAN and WGAN | [Link](https://youtu.be/yK7R8wbwQXI) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CGAN_and_WGAN.pdf) | AI |
 | May 23, 2020 | [Live] Overview of Blockchain Scalability | [Link](https://youtu.be/YM5V9OKtfpQ) / [Full](https://youtu.be/xtUvzdPKCtw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/blockchain_scalability.pdf) | Blockchain |
 | May 25, 2020 | [Live] Visualizing Loss Function | - / [Full](https://youtu.be/FlTHals6rPM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/visualizing_loss_function.pdf) | AI |
+| May 30, 2020 | [Live] Off-chain transactions: Channels [1] | - / - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_1.pdf) | Blockchain |
+| May 31, 2020 | - | - | - | Vlog |
 
 # Useful External Links
 
