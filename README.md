@@ -23,10 +23,10 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 17, 2020 | Forest of Endurance, Gomoku, and Coffee | [Link](https://youtu.be/sVaY9c2msoE) | - | Vlog |
 | May 18, 2020 | [Live] Improved GAN: CGAN and WGAN | [Link](https://youtu.be/yK7R8wbwQXI) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CGAN_and_WGAN.pdf) | AI |
 | May 23, 2020 | [Live] Overview of Blockchain Scalability | [Link](https://youtu.be/YM5V9OKtfpQ) / [Full](https://youtu.be/xtUvzdPKCtw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/blockchain_scalability.pdf) | Blockchain |
-| May 25, 2020 | [Live] Visualizing Loss Function | - / [Full](https://youtu.be/FlTHals6rPM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/visualizing_loss_function.pdf) | AI |
+| May 25, 2020 | [Live] Visualizing Loss Function | [Link](https://youtu.be/sqDAmDI2SSc) / [Full](https://youtu.be/FlTHals6rPM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/visualizing_loss_function.pdf) | AI |
 | May 30, 2020 | [Live] Off-chain transactions: Channels [1] | - / [Full](https://youtu.be/DCVYbYrKm7o) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_1.pdf) | Blockchain |
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
-| Jun 01, 2020 | [Live] WGAN and WGAN-GP A-to-Z | - / - | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Divergences.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/WGAN_and_WGAN-GP.pdf) | AI |
+| Jun 01, 2020 | [Live] WGAN and WGAN-GP A-to-Z | - / [Full](https://youtu.be/H0qHSW5CUf4) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Divergences.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/WGAN_and_WGAN-GP.pdf) | AI |
 
 # Useful External Links
 
