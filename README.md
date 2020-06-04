@@ -9,7 +9,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Every Sat. | 8:00 PM | [Live] All about Blockchain | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
 | Every Mon. | 8:00 PM | [Live] All about Artificial Intelligence | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
 
-* and V-log every other week.
+* and V-log infrequently.
 
 # Contents
 
