@@ -27,7 +27,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 30, 2020 | [Live] Off-chain transactions: Channels [1] | [Link](https://youtu.be/yvVtm2DWNq8) / [Full](https://youtu.be/DCVYbYrKm7o) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_1.pdf) | Blockchain |
 | Jun 01, 2020 | [Live] WGAN and WGAN-GP A-to-Z | [1](https://youtu.be/FGP20ciUxlo) / - / [Full](https://youtu.be/H0qHSW5CUf4) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Divergences.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/WGAN_and_WGAN-GP.pdf) | AI |
 | Jun 06, 2020 | [Live] ASIC-resistant PoW, ETHASH | - / [Full](https://youtu.be/s4dnBTifkD8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/ASIC_resistant.pdf) | Blockchain |
-| Jun 08, 2020 | [Live] Improved GAN: LSGAN and ACGAN | - / - | - | AI |
+| Jun 08, 2020 | [Live] Improved GAN: LSGAN and ACGAN | - / - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/LSGAN_and_ACGAN.pdf) | AI |
 
 <!--
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
