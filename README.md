@@ -31,7 +31,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jun 13, 2020 | [Live] Off-chain Transactions: Channels [2] | - / [Full](https://youtu.be/99y462vicw0) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_2.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/routing.pdf) | Blockchain |
 | Jun 15, 2020 | [Live] Watch your Up-Convolution  | - / [Full](https://youtu.be/BgwjGDz4Y0w) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/watch_your_up_conv.pdf) | AI |
 | Jun 20, 2020 | [Live] Zero-Knowledge Protocols | - / [Full](https://youtu.be/v89wkEs6V0s) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/zero_knowlegde_proofs.pdf) | Blockchain |
-| Jun 22, 2020 | [Rec] GradVis: Visualization Loss Landscape with Second Order Infos | - / [Full](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
+| Jun 22, 2020 | [Rec] GradVis: Visualization Loss Landscape with Second Order Infos | [Link](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
 
 <!--
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
