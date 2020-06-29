@@ -27,11 +27,13 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 30, 2020 | [Live] Off-chain Transactions: Channels [1] | [Link](https://youtu.be/yvVtm2DWNq8) / [Full](https://youtu.be/DCVYbYrKm7o) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_1.pdf) | Blockchain |
 | Jun 01, 2020 | [Live] WGAN and WGAN-GP A-to-Z | [1](https://youtu.be/FGP20ciUxlo) / [2](https://youtu.be/B15xtUqWgLc) / [Full](https://youtu.be/H0qHSW5CUf4) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Divergences.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/WGAN_and_WGAN-GP.pdf) | AI |
 | Jun 06, 2020 | [Live] ASIC-resistant PoW, ETHASH | [Link](https://youtu.be/VTFDuoPoyoo) / [Full](https://youtu.be/s4dnBTifkD8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/ASIC_resistant.pdf) | Blockchain |
-| Jun 08, 2020 | [Live] Improved GAN: LSGAN and ACGAN | - / [Full](https://youtu.be/D6tLFX355Rs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/LSGAN_and_ACGAN.pdf) | AI |
+| Jun 08, 2020 | [Live] Improved GAN: LSGAN and ACGAN | [Link](https://youtu.be/bqXFcRIhf0I) / [Full](https://youtu.be/D6tLFX355Rs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/LSGAN_and_ACGAN.pdf) | AI |
 | Jun 13, 2020 | [Live] Off-chain Transactions: Channels [2] | - / [Full](https://youtu.be/99y462vicw0) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_2.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/routing.pdf) | Blockchain |
 | Jun 15, 2020 | [Live] Watch your Up-Convolution  | - / [Full](https://youtu.be/BgwjGDz4Y0w) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/watch_your_up_conv.pdf) | AI |
 | Jun 20, 2020 | [Live] Zero-Knowledge Protocols | - / [Full](https://youtu.be/v89wkEs6V0s) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/zero_knowlegde_proofs.pdf) | Blockchain |
 | Jun 22, 2020 | [Rec] GradVis: Visualization Loss Landscape with Second Order Infos | [Link](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
+| Jun 27, 2020 | [Live] Commit-chains | - / [Full](https://youtu.be/45Jf83pc0dw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/commit_chain.pdf) | Blockchain |
+| Jun 29, 2020 | [Live] Adaptive Optimizers in Federated Learning | - / [Full](https://youtu.be/oWD4z4DcHXs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Adaptive_Federated_Optimization.pdf) | AI |
 
 <!--
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
