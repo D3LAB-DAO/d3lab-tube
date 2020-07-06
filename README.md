@@ -34,7 +34,8 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jun 22, 2020 | [Rec] GradVis: Visualization Loss Landscape with Second Order Infos | [Link](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
 | Jun 27, 2020 | [Live] Commit-chains | - / [Full](https://youtu.be/45Jf83pc0dw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/commit_chain.pdf) | Blockchain |
 | Jun 29, 2020 | [Live] Adaptive Optimizers in Federated Learning | - / [Full](https://youtu.be/oWD4z4DcHXs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Adaptive_Federated_Optimization.pdf) | AI |
-| Jun 27, 2020 | [Live] Semi-layer-2 Protocols | - / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
+| Jul 04, 2020 | [Live] Semi-layer-2 Protocols | - / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
+| Jul 06, 2020 | [Rec] Federated Learning with Matched Averaging | [Link](https://youtu.be/oKGP0ouJEhk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging.pdf) | AI |
 
 <!--
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
