@@ -36,6 +36,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jun 29, 2020 | [Live] Adaptive Optimizers in Federated Learning | - / [Full](https://youtu.be/oWD4z4DcHXs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Adaptive_Federated_Optimization.pdf) | AI |
 | Jul 04, 2020 | [Live] Semi-layer-2 Protocols | - / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
 | Jul 06, 2020 | [Rec] Federated Learning with Matched Averaging | [Link](https://youtu.be/oKGP0ouJEhk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging.pdf) | AI |
+| Jul 11, 2020 | [Rec] Decreasing Scalability & Functionality Escape Velocity | [Link](https://youtu.be/jGTaditcyVA) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/decreasing_scalability.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/functionality_escape_velocity.pdf) | Blockchain |
 
 <!--
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
