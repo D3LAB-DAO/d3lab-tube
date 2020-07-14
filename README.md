@@ -4,10 +4,10 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 
 # Schedule
 
-| :date: Date | :alarm_clock: Time | :book: Title | :computer: Platform |
+| :date: Date | :book: Title | :computer: Platform |
 |---|---|---|---|
-| Every Sat. | 8:00 PM | [Live] All about Blockchain | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
-| Every Mon. | 8:00 PM | [Live] All about Artificial Intelligence | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
+| Every Sat. | All about Blockchain | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
+| Every Mon. | All about Artificial Intelligence | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
 
 * and V-log infrequently.
 
@@ -37,6 +37,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 04, 2020 | [Live] Semi-layer-2 Protocols | - / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
 | Jul 06, 2020 | [Rec] Federated Learning with Matched Averaging | [Link](https://youtu.be/oKGP0ouJEhk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging.pdf) | AI |
 | Jul 11, 2020 | [Rec] Decreasing Scalability & Functionality Escape Velocity | [Link](https://youtu.be/jGTaditcyVA) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/decreasing_scalability.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/functionality_escape_velocity.pdf) | Blockchain |
+| Jul 13, 2020 | [Rec] Federated Learning with Matched Averaging [2] | [Link](https://youtu.be/c9JWMseTgZ4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging_2.pdf) | AI |
 
 <!--
 | May 31, 2020 | How to make TTS: Everyone has a plan, before ... | - | - | Vlog |
