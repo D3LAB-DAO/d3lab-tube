@@ -5,7 +5,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 # Schedule
 
 | :date: Date | :book: Title | :computer: Platform |
-|---|---|---|---|
+|---|---|---|
 | Every Sat. | All about Blockchain | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
 | Every Mon. | All about Artificial Intelligence | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
 
