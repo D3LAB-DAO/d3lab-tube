@@ -39,7 +39,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 11, 2020 | [Rec] Decreasing Scalability & Functionality Escape Velocity | [Link](https://youtu.be/jGTaditcyVA) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/decreasing_scalability.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/functionality_escape_velocity.pdf) | Blockchain |
 | Jul 13, 2020 | [Rec] Federated Learning with Matched Averaging [2] | [Link](https://youtu.be/c9JWMseTgZ4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging_2.pdf) | AI |
 | Jul 18, 2020 | [Rec] Blockchain Data Availability | [Link](https://youtu.be/KkWeUqG-UyA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/data_availability.pdf) | Blockchain |
-| Jul 20, 2020 | [Rec] InfoGAN [2] | - | - | AI |
+| Jul 20, 2020 | [Rec] InfoGAN | - | - | AI |
 
 # Useful External Links
 
