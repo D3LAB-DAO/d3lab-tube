@@ -31,15 +31,15 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jun 13, 2020 | [Live] Off-chain Transactions: Channels [2] | [1](https://youtu.be/_nBUskdKCgs) / [2](https://youtu.be/ey2g7WZrcx8) / [Full](https://youtu.be/99y462vicw0) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/channel_2.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/routing.pdf) | Blockchain |
 | Jun 15, 2020 | [Live] Watch your Up-Convolution  | - / [Full](https://youtu.be/BgwjGDz4Y0w) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/watch_your_up_conv.pdf) | AI |
 | Jun 20, 2020 | [Live] Zero-Knowledge Protocols | - / [Full](https://youtu.be/v89wkEs6V0s) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/zero_knowlegde_proofs.pdf) | Blockchain |
-| Jun 22, 2020 | [Rec] GradVis: Visualization Loss Landscape with Second Order Infos | [Link](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
+| Jun 22, 2020 | GradVis: Visualization Loss Landscape with Second Order Infos | [Link](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
 | Jun 27, 2020 | [Live] Commit-chains | - / [Full](https://youtu.be/45Jf83pc0dw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/commit_chain.pdf) | Blockchain |
 | Jun 29, 2020 | [Live] Adaptive Optimizers in Federated Learning | - / [Full](https://youtu.be/oWD4z4DcHXs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Adaptive_Federated_Optimization.pdf) | AI |
 | Jul 04, 2020 | [Live] Semi-layer-2 Protocols | - / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
-| Jul 06, 2020 | [Rec] Federated Learning with Matched Averaging | [Link](https://youtu.be/oKGP0ouJEhk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging.pdf) | AI |
-| Jul 11, 2020 | [Rec] Decreasing Scalability & Functionality Escape Velocity | [Link](https://youtu.be/jGTaditcyVA) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/decreasing_scalability.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/functionality_escape_velocity.pdf) | Blockchain |
-| Jul 13, 2020 | [Rec] Federated Learning with Matched Averaging [2] | [Link](https://youtu.be/c9JWMseTgZ4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging_2.pdf) | AI |
-| Jul 18, 2020 | [Rec] Blockchain Data Availability | [Link](https://youtu.be/KkWeUqG-UyA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/data_availability.pdf) | Blockchain |
-| Jul 20, 2020 | [Rec] InfoGAN | - | - | AI |
+| Jul 06, 2020 | Federated Learning with Matched Averaging | [Link](https://youtu.be/oKGP0ouJEhk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging.pdf) | AI |
+| Jul 11, 2020 | Decreasing Scalability & Functionality Escape Velocity | [Link](https://youtu.be/jGTaditcyVA) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/decreasing_scalability.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/functionality_escape_velocity.pdf) | Blockchain |
+| Jul 13, 2020 | Federated Learning with Matched Averaging [2] | [Link](https://youtu.be/c9JWMseTgZ4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging_2.pdf) | AI |
+| Jul 18, 2020 | Blockchain Data Availability | [Link](https://youtu.be/KkWeUqG-UyA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/data_availability.pdf) | Blockchain |
+| Jul 20, 2020 | InfoGAN | [Link](https://youtu.be/TRGcb9CR6VE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/InfoGAN.pdf) | AI |
 
 # Useful External Links
 
