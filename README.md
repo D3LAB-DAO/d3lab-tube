@@ -40,6 +40,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 13, 2020 | Federated Learning with Matched Averaging [2] | [Link](https://youtu.be/c9JWMseTgZ4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging_2.pdf) | AI |
 | Jul 18, 2020 | Blockchain Data Availability | [Link](https://youtu.be/KkWeUqG-UyA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/data_availability.pdf) | Blockchain |
 | Jul 20, 2020 | InfoGAN | [Link](https://youtu.be/TRGcb9CR6VE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/InfoGAN.pdf) | AI |
+| Jul 25, 2020 | Blockchain Fraud Proofs | [Link](https://youtu.be/m-Ok1xLwj9A) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fraud_proofs.pdf) | Blockchain |
 
 # Useful External Links
 
