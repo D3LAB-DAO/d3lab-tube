@@ -4,10 +4,10 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 
 # Schedule
 
-| :date: Date | :book: Title | :computer: Platform |
+| :date: Date | :book: Title | :paperclip: Playlist |
 |---|---|---|
-| Every Sat. | All about Blockchain | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
-| Every Mon. | All about Artificial Intelligence | [Youtube](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w) |
+| Every Sat. | All about Blockchain | [Youtube](https://www.youtube.com/playlist?list=PLARB0SINpZ85ZC3vgWPcrCrNsEiW6ZMjk) |
+| Every Mon. | All about Artificial Intelligence | [Youtube](https://www.youtube.com/playlist?list=PLARB0SINpZ866obduFbK3xowd0JQy3PNw) |
 
 <!--
 * and V-log infrequently.
