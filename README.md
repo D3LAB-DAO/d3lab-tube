@@ -46,7 +46,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 18, 2020 | Blockchain Data Availability | [Link](https://youtu.be/KkWeUqG-UyA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/data_availability.pdf) | Blockchain |
 | Jul 20, 2020 | InfoGAN | [Link](https://youtu.be/TRGcb9CR6VE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/InfoGAN.pdf) | AI |
 | Jul 25, 2020 | Blockchain Fraud Proofs | [Link](https://youtu.be/m-Ok1xLwj9A) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fraud_proofs.pdf) | Blockchain |
-| Jul 27, 2020 | Generalized Byzantine-torelant SGD | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/byzantine_tolerant_SGD.pdf) | AI |
+| Jul 27, 2020 | Generalized Byzantine-torelant SGD | [Link](https://youtu.be/aUJyGjb1Bxg) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/byzantine_tolerant_SGD.pdf) | AI |
 
 # Useful External Links
 
