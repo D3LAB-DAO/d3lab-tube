@@ -48,7 +48,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 25, 2020 | Blockchain Fraud Proofs | [Link](https://youtu.be/m-Ok1xLwj9A) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fraud_proofs.pdf) | Blockchain |
 | Jul 27, 2020 | Generalized Byzantine-torelant SGD | [Link](https://youtu.be/aUJyGjb1Bxg) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/byzantine_tolerant_SGD.pdf) | AI |
 | Aug 01, 2020 | [Workshop] From ZKP to Bulletproofs | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/from_zkp_to_bulletproofs.pdf) | Blockchain |
-| Aug 03, 2020 | Overview of Federated Learning Research | - | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_short.pdf) / [Full](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_full.pdf) | AI |
+| Aug 03, 2020 | Overview of Federated Learning Research | [Link](https://youtu.be/rgx5UC1PG5k) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_short.pdf) / [Full](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_full.pdf) | AI |
 
 # Useful External Links
 
