@@ -39,7 +39,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jun 22, 2020 | GradVis: Visualization Loss Landscape with Second Order Infos | [Link](https://youtu.be/ci8NI45BSGE) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Viz_Eigen_vec.pdf) | AI |
 | Jun 27, 2020 | [Live] Commit-chains | [Link](https://youtu.be/P8yegmlam1g) / [Full](https://youtu.be/45Jf83pc0dw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/commit_chain.pdf) | Blockchain |
 | Jun 29, 2020 | [Live] Adaptive Optimizers in Federated Learning | [1](https://youtu.be/OtDU3Ha6erw) / [2](https://youtu.be/Zf20QuYysCA) / [Full](https://youtu.be/oWD4z4DcHXs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Adaptive_Federated_Optimization.pdf) | AI |
-| Jul 04, 2020 | [Live] Semi-layer-2 Protocols | [1](https://youtu.be/HZ5SUXPS60o) / - / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
+| Jul 04, 2020 | [Live] Semi-layer-2 Protocols | [1](https://youtu.be/HZ5SUXPS60o) / [2](https://youtu.be/-UJvMBvltow) / [Full](https://youtu.be/QxjngWq5mRM) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/semi_layer_2_protocols.pdf) | Blockchain |
 | Jul 06, 2020 | Federated Learning with Matched Averaging | [Link](https://youtu.be/oKGP0ouJEhk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging.pdf) | AI |
 | Jul 11, 2020 | Decreasing Scalability & Functionality Escape Velocity | [Link](https://youtu.be/jGTaditcyVA) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/decreasing_scalability.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/functionality_escape_velocity.pdf) | Blockchain |
 | Jul 13, 2020 | Federated Learning with Matched Averaging [2] | [Link](https://youtu.be/c9JWMseTgZ4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_with_Matched_Averaging_2.pdf) | AI |
@@ -48,6 +48,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 25, 2020 | Blockchain Fraud Proofs | [Link](https://youtu.be/m-Ok1xLwj9A) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fraud_proofs.pdf) | Blockchain |
 | Jul 27, 2020 | Generalized Byzantine-torelant SGD | [Link](https://youtu.be/aUJyGjb1Bxg) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/byzantine_tolerant_SGD.pdf) | AI |
 | Aug 01, 2020 | [Workshop] From ZKP to Bulletproofs | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/from_zkp_to_bulletproofs.pdf) | Blockchain |
+| Aug 03, 2020 | Overview of Federated Learning Research | - | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_short.pdf) / [Full](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_full.pdf) | AI |
 
 # Useful External Links
 
