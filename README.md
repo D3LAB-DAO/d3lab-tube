@@ -49,7 +49,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Jul 27, 2020 | Generalized Byzantine-torelant SGD | [Link](https://youtu.be/aUJyGjb1Bxg) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/byzantine_tolerant_SGD.pdf) | AI |
 | Aug 01, 2020 | [Workshop] From ZKP to Bulletproofs | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/from_zkp_to_bulletproofs.pdf) | Blockchain |
 | Aug 03, 2020 | Overview of Federated Learning Research | [Link](https://youtu.be/rgx5UC1PG5k) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_short.pdf) / [Full](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_full.pdf) | AI |
-| Aug 08, 2020 | From ZKP to Bulletproofs [1] | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_1.pdf) | Blockchain |
+| Aug 08, 2020 | From ZKP to Bulletproofs [1] | [Link](https://youtu.be/4t56vVtuoE0) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_1.pdf) | Blockchain |
 | Aug 15, 2020 | From ZKP to Bulletproofs [2] | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_2.pdf) | Blockchain |
 | Aug 22, 2020 | From ZKP to Bulletproofs [3] | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_3.pdf) | Blockchain |
 
