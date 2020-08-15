@@ -50,7 +50,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Aug 01, 2020 | [Workshop] From ZKP to Bulletproofs | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/from_zkp_to_bulletproofs.pdf) | Blockchain |
 | Aug 03, 2020 | Overview of Federated Learning Research | [Link](https://youtu.be/rgx5UC1PG5k) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_short.pdf) / [Full](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FL_summary_full.pdf) | AI |
 | Aug 08, 2020 | From ZKP to Bulletproofs [1] | [Link](https://youtu.be/4t56vVtuoE0) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_1.pdf) | Blockchain |
-| Aug 10, 2020 | FedMD: FL via Model Distillation | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fedMD.pdf) | AI |
+| Aug 10, 2020 | FedMD: FL via Model Distillation | [Link](https://youtu.be/Vxe9kX3Far8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fedMD.pdf) | AI |
 | Aug 15, 2020 | From ZKP to Bulletproofs [2] | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_2.pdf) | Blockchain |
 | Aug 22, 2020 | From ZKP to Bulletproofs [3] | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_3.pdf) | Blockchain |
 
