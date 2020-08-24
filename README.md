@@ -2,16 +2,27 @@
 
 Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https://www.youtube.com/channel/UCfZYxcaoifm4vEBevdk-i7w).
 
+<!--
 # Schedule
-
-| :date: Date | :book: Title | :paperclip: Playlist |
-|---|---|---|
-| Every Sat. | All about Blockchain | [Youtube](https://www.youtube.com/playlist?list=PLARB0SINpZ85ZC3vgWPcrCrNsEiW6ZMjk) |
-| Every Mon. | All about Artificial Intelligence | [Youtube](https://www.youtube.com/playlist?list=PLARB0SINpZ866obduFbK3xowd0JQy3PNw) |
-
+| :date: Date | :book: Title |
+|---|---|
+| Every Sat. | All about Blockchain |
+| Every Mon. | All about Artificial Intelligence |
+-->
 <!--
 * and V-log infrequently.
 -->
+
+# Playlists
+
+| :book: Title | :paperclip: Playlist |
+|---|---|
+| Blockchain | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ85ZC3vgWPcrCrNsEiW6ZMjk) |
+| Artificial Intelligence | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ866obduFbK3xowd0JQy3PNw) |
+| Generative Adversarial Networks | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ86F3Rpa3l-z_pbhJIJDTsNP) |
+| Federated Learning | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ86jOfJz_QQ4bqmZP51by1vl) |
+| Blockchain Scalability | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ85XPpZPFStyum7iBQLOGwl6) |
+| Zero Knowledge Protocols | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ860x42JbhsnrzqHpAVsi_5m) |
 
 # Contents
 
