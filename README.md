@@ -64,7 +64,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Aug 10, 2020 | FedMD: FL via Model Distillation | [Link](https://youtu.be/Vxe9kX3Far8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/fedMD.pdf) | AI |
 | Aug 15, 2020 | From ZKP to Bulletproofs [2] | [Link](https://youtu.be/H9cS95hlvSY) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_2.pdf) | Blockchain |
 | Aug 17, 2020 | SGAN: Stacked GAN | [Link](https://youtu.be/jWChERzUoY8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/SGAN.pdf) | AI |
-| Aug 22, 2020 | From ZKP to Bulletproofs [3] | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_3.pdf) | Blockchain |
+| Aug 22, 2020 | From ZKP to Bulletproofs [3] | [Link](https://youtu.be/xiK8bIai0rU) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_3.pdf) | Blockchain |
 | Aug 24, 2020 | CAT2VEC: Categories to Vector | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CAT2VEC.pdf) | AI |
 
 # Useful External Links
