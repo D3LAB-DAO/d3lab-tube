@@ -67,7 +67,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Aug 22, 2020 | From ZKP to Bulletproofs [3] | [Link](https://youtu.be/xiK8bIai0rU) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_3.pdf) | Blockchain |
 | Aug 24, 2020 | CAT2VEC: Categories to Vector | [Link](https://youtu.be/Ot8niBW_FGs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CAT2VEC.pdf) | AI |
 | Aug 29, 2020 | Data Availability Proofs | - | - | Blockchain |
-| Aug 31, 2020 | - | - | - | AI |
+| Aug 31, 2020 | Knowledge Distillation | - | - | AI |
 
 # Useful External Links
 
