@@ -69,11 +69,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Aug 31, 2020 | Knowledge Distillation | [Link](https://youtu.be/xmfc_mXoZI8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/knowledge_distillation.pdf) | AI | 
 | Sep 07, 2020 | Average Top-k Loss | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Average_Top-k_Loss.pdf) | AI | 
 | Sep 14, 2020 | - | - | - | AI | 
-
-<!--
-| Aug 29, 2020 | Data Availability Proofs [1] | - | - | Blockchain |
-| Sep 05, 2020 | Data Availability Proofs [2] | - | - | Blockchain |
--->
+| - | Data Availability Proofs | - | - | Blockchain |
 
 # Useful External Links
 
