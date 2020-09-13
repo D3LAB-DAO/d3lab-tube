@@ -67,7 +67,8 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Aug 22, 2020 | From ZKP to Bulletproofs [3] | [Link](https://youtu.be/xiK8bIai0rU) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/bulletproofs_3.pdf) | Blockchain |
 | Aug 24, 2020 | CAT2VEC: Categories to Vector | [Link](https://youtu.be/Ot8niBW_FGs) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/CAT2VEC.pdf) | AI |
 | Aug 31, 2020 | Knowledge Distillation | [Link](https://youtu.be/xmfc_mXoZI8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/knowledge_distillation.pdf) | AI | 
-| Aug 07, 2020 | Average Top-k Loss | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Average_Top-k_Loss.pdf) | AI | 
+| Sep 07, 2020 | Average Top-k Loss | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Average_Top-k_Loss.pdf) | AI | 
+| Sep 14, 2020 | - | - | - | AI | 
 
 <!--
 | Aug 29, 2020 | Data Availability Proofs [1] | - | - | Blockchain |
