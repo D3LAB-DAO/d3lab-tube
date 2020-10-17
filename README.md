@@ -23,6 +23,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Federated Learning | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ86jOfJz_QQ4bqmZP51by1vl) |
 | Blockchain Scalability | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ85XPpZPFStyum7iBQLOGwl6) |
 | Zero Knowledge Protocols | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ860x42JbhsnrzqHpAVsi_5m) |
+| DeFi | [Link](https://www.youtube.com/playlist?list=PLARB0SINpZ86CsCirvzS68Gqxx7-rQAq8) |
 
 # Contents
 
@@ -31,8 +32,8 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | May 17, 2020 | Forest of Endurance, Gomoku, and Coffee | [Link](https://youtu.be/sVaY9c2msoE) | - | Vlog |
 -->
 
-| :date: Date  | :book: Title | :tv: Videos | :floppy_disk: Files | :pushpin: Category |
-|---|---|---|---|---|
+| :book: Title | :tv: Videos | :floppy_disk: Files | :pushpin: Category |
+|---|---|---|---|
 | Apr 26, 2020 | What is Blockchain: Transaction | [Link](https://youtu.be/oN3uQi7sd_E) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/what_is_blockchain_transaction.pdf) | Blockchain |
 | May 09, 2020 | [Live] What is Blockchain: Block and Chain | [Link](https://youtu.be/qJZHPnCUbbQ) / [Full](https://youtu.be/USGZ8etoOHg) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/what_is_blockchain_block_and_chain.pdf) | Blockchain | 
 | May 11, 2020 | [Live] GAN: Like I'm Five | [Link](https://youtu.be/Cck0kj-XITI) | [1](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/NN_and_tensor_basic.pdf) / [2](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/GAN_basic_DCGAN.pdf) | AI |
