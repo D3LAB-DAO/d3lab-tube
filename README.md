@@ -71,7 +71,8 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Average Top-k Loss | [Link](https://youtu.be/jHvVSjKQ_Fk) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Average_Top-k_Loss.pdf) | AI |
 | Data Distillation | [Link](https://youtu.be/n-HW7xrrUu8) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Data_Distillation.pdf) | AI |
 | Uniswap Protocol | [1](https://youtu.be/rBLaL6KRjTI) / [2](https://youtu.be/Gv9lCcq1Faw) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/uniswap.pdf) | Blockchain |
-| Quadratic Voting | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Quadratic%20Voting.pdf) | Blockchain |
+| Quadratic Voting | [Link](https://youtu.be/injXnRA1Fds) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Quadratic%20Voting.pdf) | Blockchain |
+| FoolsGold: Sybil Attack in Federated Learning | [Link](https://youtu.be/3dJhSoGlY1s) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/mitigating_Sybils_in_FL.pdf) | AI |
 | Data Availability Proofs | - | - | Blockchain |
 
 # Useful External Links
