@@ -74,7 +74,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Quadratic Voting | [Link](https://youtu.be/injXnRA1Fds) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Quadratic%20Voting.pdf) | Blockchain |
 | FoolsGold: Sybil Attack in Federated Learning | [1](https://youtu.be/3dJhSoGlY1s) / [2](https://youtu.be/5qydm5Agh2s)| [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/mitigating_Sybils_in_FL.pdf) | AI |
 | BlockFLow: Federated Learning based-on Blockchain | [1](https://youtu.be/PLhjoI-PYDg) / [2](https://youtu.be/6lRCnvl85k4) / [3](https://youtu.be/g2L1B0YyucQ) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/BlockFLow.pdf) | AI |
-| Probabilistic Quadratic Voting | - | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/PQV.pdf) | Blockchain |
+| Probabilistic Quadratic Voting | [Link](https://youtu.be/Q0Fp2c0L3OY) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/PQV.pdf) | Blockchain |
 
 <!--
 | Data Availability Proofs | - | - | Blockchain |
