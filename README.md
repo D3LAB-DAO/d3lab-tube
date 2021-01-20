@@ -71,6 +71,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | BlockFLow: Federated Learning based-on Blockchain | [1](https://youtu.be/PLhjoI-PYDg) / [2](https://youtu.be/6lRCnvl85k4) / [3](https://youtu.be/g2L1B0YyucQ) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/BlockFLow.pdf) | Blockchain / AI / FL |
 | Probabilistic Quadratic Voting | [Link](https://youtu.be/Q0Fp2c0L3OY) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/PQV.pdf) | Blockchain |
 | BAFFLE: BLockchain-based Aggregator-free Federated Learning | [Link](https://youtu.be/HkQPVoGdKV4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Baffle.pdf) | Blockchain / AI / FL |
+| Eth2Vec: Code Representation on Ethereum Smart Contract | [Link](https://youtu.be/_pm7t9HN-hA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Eth2Vec.pdf) | Blockchain / AI |
 
 <!--
 | Data Availability Proofs | - | - | Blockchain |
