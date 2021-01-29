@@ -72,7 +72,7 @@ Welcome! This repository uploads files of [:tv: LUKEPARK youtube channel](https:
 | Probabilistic Quadratic Voting | [Link](https://youtu.be/Q0Fp2c0L3OY) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/PQV.pdf) | Blockchain |
 | BAFFLE: BLockchain-based Aggregator-free Federated Learning | [Link](https://youtu.be/HkQPVoGdKV4) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Baffle.pdf) | Blockchain / AI / FL |
 | Eth2Vec: Code Representation on Ethereum Smart Contract | [Link](https://youtu.be/_pm7t9HN-hA) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/Eth2Vec.pdf) | Blockchain / AI |
-| Fedcoin: A Peer-to-peer Payment System for Federated Learning | [1](https://youtu.be/BKUr-wdbnag) / 2 | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FedCoin.pdf) | Blockchain / AI / FL |
+| Fedcoin: A Peer-to-peer Payment System for Federated Learning | [1](https://youtu.be/BKUr-wdbnag) / [2](https://youtu.be/vUjKsA7675c) | [Download](https://github.com/lukepark327/lukepark-tube/raw/master/lectures/FedCoin.pdf) | Blockchain / AI / FL |
 
 <!--
 | Data Availability Proofs | - | - | Blockchain |
