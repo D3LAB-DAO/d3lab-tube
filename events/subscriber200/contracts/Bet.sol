@@ -81,7 +81,8 @@ contract Bet is Context, MultiOwnable, IBet {
         // conditions
         require(!ENDSTATE, "The game is over.");
         require(percentage < 100, "Percentage MUST be lower than 100 .");
-        require(!_msgSender().isContract(), "The caller MUST NOT be a contract address.");
+        address sender = _msgSender();
+        require(!sender.isContract(), "The caller MUST NOT be a contract address.");
 
         // `fee = amount * _feeconst * (p**2)` where `p = percentage / 100`
         // `fee > 1` when `amount >= 13` where `_feeconst = 8`
@@ -137,7 +138,7 @@ contract Bet is Context, MultiOwnable, IBet {
 
     function claimWinner(
         // ...
-    ) public view returns (bool) {
+    ) public returns (bool) {
         (bool check, bytes memory data) = _LPTAddress.call(
             abi.encodeWithSelector(BURNFROM, _msgSender(), _targetPrice)
         );
@@ -146,7 +147,7 @@ contract Bet is Context, MultiOwnable, IBet {
             "call burnFrom(address, uint256) is failed."
         );
         
-        ENDSTATE = false;
+        ENDSTATE = true;
         WINNER = _msgSender();
 
         return true;
@@ -186,6 +187,15 @@ contract Bet is Context, MultiOwnable, IBet {
         uint256 newTargetPrice
     ) public onlyOwner(GAMEMANAGE) {
         _targetPrice = newTargetPrice;
+    }
+
+    /**
+     * @dev Returns the {WINNER}.
+     */
+    function getWinner(
+        // ...
+    ) public view returns (address) {
+        return WINNER;
     }
 
     /**
