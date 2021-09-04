@@ -117,8 +117,7 @@ contract UniswapV2ERC20 is IUniswapV2ERC20 {
         require(deadline >= block.timestamp, 'UniswapV2: EXPIRED');
         bytes32 digest = keccak256(
             abi.encodePacked(
-                '\x19\x01',
-                DOMAIN_SEPARATOR,
+                '\x19Ethereum Signed Message:\n32',
                 keccak256(abi.encode(PERMIT_TYPEHASH, owner, spender, value, nonces[owner]++, deadline))
             )
         );
@@ -126,14 +125,23 @@ contract UniswapV2ERC20 is IUniswapV2ERC20 {
         require(recoveredAddress != address(0) && recoveredAddress == owner, 'UniswapV2: INVALID_SIGNATURE');
         _approve(owner, spender, value);
     }
+}
+
+contract UniswapV2ERC20Example is UniswapV2ERC20 {
+    function mint(address account_, uint256 amount_) public {
+        _mint(account_, amount_);
+    }
     
-    // TEST PERMIT FUNCTION
+    function getDigest(address owner, address spender, uint value, uint deadline) external view returns (bytes32) {
+        return keccak256(abi.encode(PERMIT_TYPEHASH, owner, spender, value, nonces[owner], deadline));
+    }
+
     function transferFromWithPermit(
-        address from, address to, uint value,
+        address to, uint value,
         uint deadline,
         uint8 v, bytes32 r, bytes32 s
     ) external returns (bool) {
-        this.permit(msg.sender, from, value, deadline, v, r, s);
-        return this.transferFrom(from, to, value);
+        this.permit(msg.sender, address(this), value, deadline, v, r, s);
+        return this.transferFrom(msg.sender, to, value);
     }
 }
