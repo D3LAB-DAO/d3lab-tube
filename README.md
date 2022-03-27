@@ -75,6 +75,7 @@ Welcome! This repository uploads files of [:tv: D3LAB youtube channel](https://w
 | Fedcoin: A Peer-to-peer Payment System for Federated Learning | [1](https://youtu.be/BKUr-wdbnag) / [2](https://youtu.be/vUjKsA7675c) | [Download](./lectures/FedCoin.pdf) | Blockchain / AI / FL |
 | FedGKT: Federated Group Knowledge Transfer | [Link](https://youtu.be/bmq0iKWzQ84) | [Download](./lectures/FedGKT.pdf) | AI / FL |
 | Selective Deletion in a Blockchain | [Link](https://youtu.be/a_Cj5P8g5oc) | [Download](./lectures/selective_deletion.pdf) | Blockchain |
+| Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security | [Link](https://youtu.be/RRSEwPEwlUc) | [Download](./lectures/eip1559.pdf) | Blockchain |
 
 <!--
 | Data Availability Proofs | - | - | Blockchain |
