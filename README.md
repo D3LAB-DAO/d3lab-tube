@@ -82,7 +82,9 @@ Welcome! This repository uploads files of [:tv: D3LAB youtube channel](https://w
 
 # Useful External Links
 
-* [Medium: CURG in Seoul](https://medium.com/curg)
+* [D3LAB](http://d3lab.xyz)
+* [LAB819](http://lab819.xyz)
+* [CURG in Seoul](http://curg.xyz)
 
 # Question
 
